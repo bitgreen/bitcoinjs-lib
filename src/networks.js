@@ -40,7 +40,7 @@ exports.divi = {
     public: 0x0488b21e,
     private: 0x0488ade4,
   },
-  pubKeyHash: 0x38,
+  pubKeyHash: 0x26,
   scriptHash: 0x06,
   wif: 0x2e
 };
